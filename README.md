@@ -66,14 +66,3 @@ kotlin
 dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
 }
-🚀 Cómo Ejecutar
-Clona el repositorio
-
-Abre en IntelliJ IDEA
-
-Asegúrate de tener las corrutinas configuradas
-
-Ejecuta Main.kt
-
-bash
-./gradlew run
